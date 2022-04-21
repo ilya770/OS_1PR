@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<users>
+    <user username="Денис Ненашев">
+        <age>19</age>
+        <group>БББО-10-20</group>
+    </user>
+    <user username="Тимофеев Иван">
+        <age>21</age>
+        <group>БББО-10-20</group>
+    </user>
+</users>
